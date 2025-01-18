@@ -1,7 +1,7 @@
-## Hi there 👋
+# System.out.println("Welcome to my github!😆")
 
 
-System.out.println("Welcome to my github!😆")
+
 
 👨‍💻 Software Developer
 
