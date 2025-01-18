@@ -2,7 +2,7 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 <hr>
 
-<p>👨‍💻 Software Developer /*at <a href="https://AINDA NÃO TEM EMPRESA/" target="blank_">SEM EMPRESA AINDA ;-;</a></p> */
+<p>👨‍💻 Software Developer 
 <p>🎓 Graduating in Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/" target="blank_">Uniasselvi</a></p>
 <p>✈️ Lived in Ceara </a></p>
 <p>🔠 B1 Intermediary English Level</a></p>
