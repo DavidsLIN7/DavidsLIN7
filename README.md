@@ -1,12 +1,11 @@
- System.out.println("Welcome to my github!😆")
 
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
+<p>👨‍💻 Software Developer /*at <a href="https://AINDA NÃO TEM EMPRESA/" target="blank_">SEM EMPRESA AINDA ;-;</a></p> */
+<p>🎓 Graduating in Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/" target="blank_">Uniasselvi</a></p>
+<p>✈️ Lived in Ceara </a></p>
+<p>🔠 B1 Intermediary English Level</a></p>
+<hr>
 
-
-👨‍💻 Software Developer
-
-🎓 Graduating in Systems Analysis and Development at Uniasselvi
-
-✈️ Lived in Ceara
-
-🔠 B1 Intermediary English L
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
