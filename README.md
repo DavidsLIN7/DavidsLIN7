@@ -8,4 +8,4 @@
 <p>🔠 B1 Intermediary English Level</a></p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql)](https://skillicons.dev)
